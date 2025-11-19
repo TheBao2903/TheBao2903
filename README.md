@@ -90,7 +90,7 @@ Mình là một **Software Engineer** đang ở giai đoạn đầu sự nghiệ
 
 <div align="center">
 
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TheBao2903&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TheBao2903&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=6&row=2)
 
 </div>
 
@@ -110,7 +110,7 @@ Mình là một **Software Engineer** đang ở giai đoạn đầu sự nghiệ
 
 <div align="center">
 
-  ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheBao2903&theme=tokyonight&hide_border=true&stroke=0000&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7)
+  ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheBao2903&theme=tokyonight&hide_border=true&stroke=0000&ring=2E9EF7&fire=FF4444&currStreakLabel=2E9EF7&sideNums=FF4444)
 
 </div>
 
