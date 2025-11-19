@@ -1,11 +1,11 @@
-# 👋 Xin chào, tôi là Nguyễn Văn A
+# 👋 Xin chào, tôi là TheBao
 
 <div align="center">
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Software+Engineering+Student;Always+Learning+New+Things)
 
-  [![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)](https://github.com/your-username)
-  [![GitHub Stars](https://img.shields.io/github/stars/your-username?label=Stars&style=social)](https://github.com/your-username)
+  [![GitHub followers](https://img.shields.io/github/followers/TheBao2903?label=Followers&style=social)](https://github.com/TheBao2903)
+  [![GitHub Stars](https://img.shields.io/github/stars/TheBao2903?label=Stars&style=social)](https://github.com/TheBao2903)
 
 </div>
 
@@ -76,11 +76,11 @@ Mình là một **Software Engineer** đang ở giai đoạn đầu sự nghiệ
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheBao2903&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheBao2903&theme=tokyonight&hide_border=true)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBao2903&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
@@ -100,7 +100,7 @@ Mình là một **Software Engineer** đang ở giai đoạn đầu sự nghiệ
 
 <div align="center">
 
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheBao2903&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -110,7 +110,7 @@ Mình là một **Software Engineer** đang ở giai đoạn đầu sự nghiệ
 
 <div align="center">
 
-  ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&stroke=0000&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7)
+  ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheBao2903&theme=tokyonight&hide_border=true&stroke=0000&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7)
 
 </div>
 
@@ -120,10 +120,10 @@ Mình là một **Software Engineer** đang ở giai đoạn đầu sự nghiệ
 
 <div align="center">
 
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-facebook)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thebao2903@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thebao2903)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/thebao2903)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheBao2903)
 
 </div>
 
@@ -143,13 +143,13 @@ Mình là một **Software Engineer** đang ở giai đoạn đầu sự nghiệ
 
 <div align="center">
 
-  ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=tokyonight)
+  ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheBao2903&theme=tokyonight)
 
-  ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-username&theme=tokyonight)
-  ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=your-username&theme=tokyonight)
+  ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheBao2903&theme=tokyonight)
+  ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheBao2903&theme=tokyonight)
 
-  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=your-username&theme=tokyonight)
-  ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=your-username&theme=tokyonight&utcOffset=7)
+  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheBao2903&theme=tokyonight)
+  ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheBao2903&theme=tokyonight&utcOffset=7)
 
 </div>
 
@@ -169,7 +169,7 @@ Mình là một **Software Engineer** đang ở giai đoạn đầu sự nghiệ
 
   ### 🌟 "Mỗi dòng code là một bước tiến mới!" 🌟
 
-  ![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/TheBao2903/count.svg)
 
   **Cảm ơn bạn đã ghé thăm profile của mình!** 💙
 
