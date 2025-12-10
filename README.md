@@ -160,7 +160,7 @@ Mình là một **Software Engineer** đang ở giai đoạn đầu sự nghiệ
 - [ ] Hoàn thành 5 dự án backend thực tế
 - [ ] Đóng góp vào ít nhất 3 dự án open source
 - [ ] Học và thành thạo một framework backend mới
-- [ ] Đạt 500+ contributions trên GitHub
+- [ ] Đạt 200+ contributions trên GitHub
 - [ ] Xây dựng portfolio với ít nhất 10 dự án chất lượng
 
 ---
