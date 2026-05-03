@@ -37,7 +37,6 @@ Mình là một **Software Engineer** đang ở giai đoạn đầu sự nghiệ
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -152,18 +151,6 @@ Mình là một **Software Engineer** đang ở giai đoạn đầu sự nghiệ
   ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheBao2903&theme=tokyonight&utcOffset=7)
 
 </div>
-
----
-
-## 🎯 Mục tiêu năm 2025
-
-- [ ] Hoàn thành 5 dự án backend thực tế
-- [ ] Đóng góp vào ít nhất 3 dự án open source
-- [ ] Học và thành thạo một framework backend mới
-- [ ] Đạt 200+ contributions trên GitHub
-- [ ] Xây dựng portfolio với ít nhất 10 dự án chất lượng
-
----
 
 <div align="center">
 
