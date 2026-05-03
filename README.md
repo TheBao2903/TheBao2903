@@ -1,4 +1,4 @@
-# 👋 Xin chào, tôi là TheBao
+# 👋 Xin chào, tôi là NGUYEN HUYNH THE BAO
 
 <div align="center">
 
