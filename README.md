@@ -1,8 +1,8 @@
 # Nguyễn Huỳnh Thế Bảo 👋
-### Fresher Full-Stack Developer
+### Fresher Full-Stack Developer | Backend-Focused
 
 [![Email](https://img.shields.io/badge/Email-thebao657%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:thebao657@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyen%20Bao-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/nguyen-bao-143ab925a](https://www.linkedin.com/in/the-bao-11762419b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-The%20Bao-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-bao-11762419b/)
 [![Phone](https://img.shields.io/badge/Phone-0374151952-4CAF50?style=flat-square&logo=phone&logoColor=white)](tel:0374151952)
 [![GitHub](https://img.shields.io/badge/GitHub-TheBao2903-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TheBao2903)
 
@@ -90,7 +90,7 @@ Tham gia trực tiếp vào việc phân tích, phát triển và bảo trì h�
 
 ## 📊 Hoạt động & Thống kê
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheBao2903&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheBao2903&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBao2903&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
-</p>
+</div>
