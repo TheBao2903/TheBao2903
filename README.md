@@ -10,9 +10,9 @@
 
 ## 📌 About Me
 
-Final-year Software Engineering student at **Industrial University of Ho Chi Minh City (IUH)**. I possess a solid foundation in **Backend Engineering** and end-to-end product delivery, backed by **6 months of hands-on production experience** building and maintaining real-world web and mobile applications.
+Final-year Software Engineering student at **Industrial University of Ho Chi Minh City (IUH)**. I possess a solid foundation in **Backend Engineering** and end-to-end product delivery, backed by **6 months of hands-on production experience** building, maintaining, and deploying real-world web and mobile applications.
 
-- 🔭 **Core Strengths:** RESTful API design, database architecture & optimization (Relational & NoSQL), third-party payment gateway integration, automated notification pipelines (Zalo, FCM), and full-cycle mobile app release on Google Play Console.
+- 🔭 **Core Strengths:** RESTful API design, database architecture & optimization (Relational & NoSQL), third-party payment gateway integration, automated notification pipelines (Zalo, FCM), CI/CD automation, and full-cycle mobile app release on Google Play Console.
 - ⚙️ **Core Tech Stack:** Java (Spring Boot), PHP (CodeIgniter 3), TypeScript/Node.js, Python, MySQL/MariaDB, MongoDB, Docker.
 - 🎯 **Career Objective:** Seeking a **Fresher Backend Developer** (or Full-Stack Developer) position to build scalable, secure, and resilient software systems.
 
@@ -28,7 +28,7 @@ Actively participated in analyzing requirements, designing architectures, and de
 - **Hoàng Kim Online (Mobile App & Backend Integration):**
   - Spearheaded end-to-end mobile app development using **React Native, Expo, and TypeScript**, refactoring and connecting with the backend powered by **PHP (CodeIgniter 3) & MySQL**.
   - **Payment Integration:** Implemented credit card payment processing via **VPBank (VPB)** and automated transactions through **SePay API**.
-  - **Automated Notification Pipeline:** Automated real-time order completion notifications via **Zalo Notification Service (ZNS) for customers** and **Zalo Webhooks for Admins**, alongside **Firebase Cloud Messaging (FCM)** and **Expo Notifications**.
+  - **Automated Notification Pipeline:** Automated real-time order completion notifications via **Zalo Notification Service (ZNS) for customers** and **Zalo Webhooks for Admins**, alongside **Firebase Cloud Messaging (FCM)** và **Expo Notifications**.
   - **AI & OCR Integration:** Built APIs integrating **Google Cloud Vision** for automated national ID card (CCCD) data extraction.
   - **Google Play Store Release:** Independently managed **100% of the Google Play Console deployment pipeline**: configured privacy policies/permissions, coordinated closed testing tracks, resolved compliance requirements, and successfully published the application to production.
 
@@ -49,20 +49,22 @@ Actively participated in analyzing requirements, designing architectures, and de
 ### 2. Burnout AI Platform
 > *AI-Driven Mental Health & Occupational Burnout Assessment (Collaborated with Open University startup team)*  
 > 🔗 **Backend:** [TheBao2903/burnout-ai-flatform](https://github.com/TheBao2903/burnout-ai-flatform) | 🔗 **Frontend:** [TheBao2903/burnout-ai-frontend](https://github.com/TheBao2903/burnout-ai-frontend)
-- **Tech Stack:** Python (FastAPI/Flask), AI/LLM integration, React, TypeScript, TailwindCSS.
+- **Tech Stack:** Python (FastAPI/Flask), AI/LLM integration, React, TypeScript, TailwindCSS, Vercel, Render, UptimeRobot.
 - **Key Highlights:**
   - Designed robust RESTful APIs to ingest and process survey responses and behavioral data streams.
   - Integrated an AI inference pipeline to analyze burnout risks and automatically generate personalized wellness recommendations.
+  - **Automated CI/CD & High Availability:** Configured continuous deployment pipelines integrated with **GitHub** for auto-deployments on Git push (Frontend on **Vercel**, Backend on **Render**); setup automated heartbeat polling via **UptimeRobot** to prevent cold starts and maintain 24/7 service availability.
 
 ---
 
 ### 3. Guardian AI Solution
 > *Smart Surveillance & Security Alert System (Collaborated with Open University startup team)*  
 > 🔗 **Backend:** [TheBao2903/guardian-ai-backend](https://github.com/TheBao2903/guardian-ai-backend) | 🔗 **Frontend:** [TheBao2903/guardian-ai-frontend](https://github.com/TheBao2903/guardian-ai-frontend)
-- **Tech Stack:** Python, FastAPI, Node.js, React, TypeScript.
+- **Tech Stack:** Python, FastAPI, Node.js, React, TypeScript, Vercel, Render, UptimeRobot.
 - **Key Highlights:**
   - Developed backend data ingestion pipelines to process surveillance event streams in real time.
   - Standardized RESTful APIs to power admin dashboard monitoring and security incident logging.
+  - **Automated CI/CD & Cloud Hosting:** Streamlined continuous delivery connected to **GitHub** repositories for instant builds on push (**Vercel** & **Render**), with **UptimeRobot** health checks maintaining active server state.
 
 ---
 
@@ -84,7 +86,7 @@ Actively participated in analyzing requirements, designing architectures, and de
 | **Databases** | MySQL, MariaDB, MongoDB, Redis |
 | **Frontend & Mobile** | ReactJS, React Native (Expo), Vite, TailwindCSS, Bootstrap |
 | **Third-Party Integrations** | VPBank Payment Gateway, SePay API, Zalo API / ZNS, Google Cloud Vision (OCR), Firebase FCM |
-| **DevOps & Tools** | Docker, Git/GitHub, Google Play Console, Postman, AWS S3, Cloudflare R2, Linux/WinSCP |
+| **DevOps & CI/CD** | Docker, Git/GitHub, GitHub Auto-Deploy, Vercel, Render, UptimeRobot, Google Play Console, Postman, AWS S3, Cloudflare R2, Linux/WinSCP |
 
 ---
 
