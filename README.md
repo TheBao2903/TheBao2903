@@ -90,14 +90,12 @@ Tham gia trực tiếp vào việc phân tích, phát triển và bảo trì h�
 
 ---
 
-## 📊 Hoạt động & Thống kê
+---
+
+## 📊 Thống kê đóng góp (Contributions)
 
 <div align="center">
   <a href="https://github.com/TheBao2903">
     <img src="https://streak-stats.demolab.com/?user=TheBao2903&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/TheBao2903">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheBao2903&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="95%" />
   </a>
 </div>
