@@ -1,167 +1,96 @@
-# 👋 Xin chào, tôi là NGUYEN HUYNH THE BAO
+# Nguyễn Huỳnh Thế Bảo 👋
+### Fresher Full-Stack Developer
 
-<div align="center">
-
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Software+Engineering+Student;Always+Learning+New+Things)
-
-  [![GitHub followers](https://img.shields.io/github/followers/TheBao2903?label=Followers&style=social)](https://github.com/TheBao2903)
-  [![GitHub Stars](https://img.shields.io/github/stars/TheBao2903?label=Stars&style=social)](https://github.com/TheBao2903)
-
-</div>
+[![Email](https://img.shields.io/badge/Email-thebao657%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:thebao657@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyen%20Bao-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyen-bao-143ab925a)
+[![Phone](https://img.shields.io/badge/Phone-0374151952-4CAF50?style=flat-square&logo=phone&logoColor=white)](tel:0374151952)
+[![GitHub](https://img.shields.io/badge/GitHub-TheBao2903-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TheBao2903)
 
 ---
 
-## 🚀 Về tôi
+## 📌 Giới thiệu (About Me)
 
-Mình là một **Software Engineer** đang ở giai đoạn đầu sự nghiệp, với niềm đam mê mãnh liệt trong việc xây dựng các hệ thống backend. Tuy chưa có nhiều kinh nghiệm thực chiến nhưng mình tin vào khả năng học hỏi nhanh và sự quyết tâm của bản thân.
+Sinh viên năm cuối ngành **Kỹ thuật Phần mềm** tại **Đại học Công nghiệp TP.HCM (IUH)**. Mình có nền tảng vững vàng về **Backend Engineering** và tư duy phát triển sản phẩm trọn gói (End-to-End), sở hữu **6 tháng kinh nghiệm thực chiến** phát triển và vận hành hệ thống web & mobile application thực tế trên production.
 
-**Mục tiêu của mình:** Trở thành một Backend Developer vững vàng trong vòng 2 năm tới, đồng thời không ngừng mở rộng kiến thức để tạo ra những sản phẩm có giá trị thực sự.
-
-💡 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
----
-
-## 💼 Mục tiêu nghề nghiệp
-
-- 🎯 Chuyên sâu vào **Backend Development**
-- 🌱 Hiện đang học thêm về **Microservices** và **System Design**
-- 🔍 Tìm kiếm cơ hội để đóng góp vào các dự án thực tế
-- 🤝 Mong muốn làm việc trong môi trường năng động, được học hỏi từ những anh chị senior
+- 🔭 **Thế mạnh:** Thiết kế RESTful API, tối ưu kiến trúc Database (Relational & NoSQL), tích hợp cổng thanh toán ngân hàng, dịch vụ thông báo tự động (Zalo, FCM), và làm chủ quy trình phát hành ứng dụng lên Google Play Store.
+- ⚙️ **Tech Stack chính:** Java (Spring Boot), PHP (CodeIgniter 3), TypeScript/Node.js, Python, MySQL/MariaDB, MongoDB, Docker.
+- 🎯 **Mục tiêu:** Gia nhập doanh nghiệp với vai trò **Fresher Backend Developer** (hoặc Full-stack Developer), đóng góp vào việc xây dựng các hệ thống ổn định, an toàn và có tính mở rộng cao.
 
 ---
 
-## 🛠️ Kỹ năng & Công nghệ
+## 💼 Kinh nghiệm làm việc thực tế (Production Experience)
 
-### 💻 Ngôn ngữ lập trình
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### **CÔNG TY TNHH VIETNAM AFFILIATE** *(04/2026 – 10/2026)*
+* **04/2026 – 07/2026:** *Full-stack Developer Intern (Thực tập sinh)*
+* **07/2026 – 10/2026:** *Full-stack Developer (Nhân viên chính thức)*
 
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend Development
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Cơ sở dữ liệu
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### ☁️ Cloud & Hosting
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-### 🔧 Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white)
+Tham gia trực tiếp vào việc phân tích, phát triển và bảo trì hệ thống Web & Mobile phục vụ người dùng thực tế:
+- **Dự án Hoàng Kim Online (Mobile App & Backend Integration):**
+  - Đảm nhiệm toàn bộ quy trình phát triển ứng dụng di động từ đầu bằng **React Native, Expo, TypeScript**, tái cấu trúc và kết nối backend **PHP (CodeIgniter 3) & MySQL**.
+  - **Tích hợp cổng thanh toán:** Xử lý luồng thanh toán qua thẻ tín dụng liên kết **ngân hàng VPBank (VPB)** và tích hợp hệ thống thanh toán tự động qua **SePay API**.
+  - **Tự động hóa thông báo:** Tích hợp hệ thống thông báo trạng thái đơn hàng hoàn tất tự động qua **Zalo Notification Service (ZNS) cho khách hàng** và **Zalo thông báo cho Admin**, kết hợp đẩy tin qua **Firebase Cloud Messaging (FCM)** và **Expo Notifications**.
+  - **Tích hợp AI/OCR:** Xây dựng API tích hợp **Google Cloud Vision** để tự động nhận diện thông tin Căn cước công dân (CCCD).
+  - **Phát hành CH Play (Google Play Store):** Tự chủ **100% quy trình phát hành ứng dụng lên CH Play**: từ việc khởi tạo, khai báo thông tin chính sách/bảo mật, thiết lập closed testing, điều phối tester đến phát hành ứng dụng lên production thành công.
 
 ---
 
-## 📊 Thống kê GitHub
+## 🚀 Dự án tiêu biểu (Featured Projects)
 
-<div align="center">
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheBao2903&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheBao2903&theme=tokyonight&hide_border=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBao2903&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
+### 1. [Wisdom Social - Scalable Social Network](https://github.com/TheBao2903/wisdom-social)
+> *Đồ án môn Công nghệ mới | Vai trò: Backend Developer*
+- **Công nghệ:** Node.js/Express, TypeScript, ReactJS, TailwindCSS, WebSocket, MariaDB, MongoDB, AWS S3.
+- **Điểm nổi bật:**
+  - Thiết kế **Hybrid Database Architecture**: Tách biệt luồng dữ liệu quan hệ/xác thực vào **MariaDB** và dữ liệu tải cao, tần suất ghi lớn (posts, stories, tương tác) vào **MongoDB** giúp tối ưu hóa hiệu năng truy xuất.
+  - Xây dựng hệ thống thông báo thời gian thực (**Real-time Notification**) sử dụng **WebSocket**.
+  - Tích hợp **AWS S3** lưu trữ media; thiết kế sơ đồ luồng dữ liệu và tài liệu API chi tiết.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TheBao2903&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=6&row=2)
-
-</div>
-
----
-
-## 📈 Hoạt động đóng góp
-
-<div align="center">
-
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheBao2903&theme=tokyo-night&hide_border=true)
-
-</div>
+### 2. Burnout AI Platform
+> *Hệ thống đánh giá & cảnh báo kiệt sức nghề nghiệp bằng AI (Dự án hợp tác cho nhóm SV ĐH Mở TP.HCM thi Khởi nghiệp)*  
+> 🔗 **Backend:** [TheBao2903/burnout-ai-flatform](https://github.com/TheBao2903/burnout-ai-flatform) | 🔗 **Frontend:** [TheBao2903/burnout-ai-frontend](https://github.com/TheBao2903/burnout-ai-frontend)
+- **Công nghệ:** Python (FastAPI/Flask), AI/LLM integration, React, TypeScript, TailwindCSS.
+- **Điểm nổi bật:**
+  - Thiết kế REST API xử lý luồng dữ liệu khảo sát và hành vi người dùng.
+  - Tích hợp pipeline AI suy luận và phân tích dữ liệu, tự động xuất báo cáo và đề xuất giải pháp cải thiện sức khỏe tinh thần.
 
 ---
 
-## 🔥 Streak hiện tại
-
-<div align="center">
-
-  ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheBao2903&theme=tokyonight&hide_border=true&stroke=0000&ring=2E9EF7&fire=FF4444&currStreakLabel=2E9EF7&sideNums=FF4444)
-
-</div>
-
----
-
-## 📫 Liên hệ với mình
-
-<div align="center">
-
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenhuynhthebao29@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thebao2903)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/thebao2903](https://www.facebook.com/drakey.2903))
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](h[ttps://github.com/TheBao2903](https://github.com/TheBao2903))
-
-</div>
+### 3. Guardian AI Solution
+> *Hệ thống giám sát & cảnh báo an toàn thông minh (Dự án hợp tác cho nhóm SV ĐH Mở TP.HCM thi Khởi nghiệp)*  
+> 🔗 **Backend:** [TheBao2903/guardian-ai-backend](https://github.com/TheBao2903/guardian-ai-backend) | 🔗 **Frontend:** [TheBao2903/guardian-ai-frontend](https://github.com/TheBao2903/guardian-ai-frontend)
+- **Công nghệ:** Python, FastAPI, Node.js, React, TypeScript.
+- **Điểm nổi bật:**
+  - Xây dựng backend thu nhận và xử lý tín hiệu dữ liệu theo thời gian thực.
+  - Chuẩn hóa hệ thống RESTful API kết nối với giao diện Dashboard điều khiển và quản lý log cảnh báo.
 
 ---
 
-## 💭 Quote của ngày
-
-<div align="center">
-
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+### 4. [Wisdom Books - E-Commerce Bookstore](https://github.com/TheBao2903/wisdom-books)
+> *Đồ án môn Lập trình Web (WWW) | Vai trò: Full-stack / Backend Developer*
+- **Công nghệ:** Java, Spring Boot, Hibernate/JPA, MySQL, Thymeleaf/HTML5, Bootstrap.
+- **Điểm nổi bật:**
+  - Xây dựng trọn vẹn quy trình E-commerce: Quản lý danh mục, giỏ hàng, đặt hàng, xử lý thanh toán và trạng thái đơn hàng.
+  - Phân quyền tài khoản (Role-based Authorization: Admin/User), bảo mật phiên làm việc và dữ liệu giao dịch.
 
 ---
 
-## 📊 Thống kê chi tiết
+## 🛠️ Kỹ năng chuyên môn (Technical Skills)
 
-<div align="center">
+| Phân nhóm | Chi tiết công nghệ |
+| :--- | :--- |
+| **Ngôn ngữ** | Java, PHP, JavaScript, TypeScript, Python, SQL |
+| **Backend Frameworks** | Spring Boot, CodeIgniter 3, Express.js, RESTful API, JWT, Hibernate/JPA |
+| **Cơ sở dữ liệu** | MySQL, MariaDB, MongoDB, Redis |
+| **Frontend & Mobile** | ReactJS, React Native (Expo), Vite, TailwindCSS, Bootstrap |
+| **Tích hợp bên thứ ba** | Cổng thanh toán VPBank, SePay API, Zalo API / ZNS, Google Cloud Vision (OCR), Firebase FCM |
+| **DevOps & Công cụ** | Docker, Git/GitHub, Google Play Console, Postman, AWS S3, Cloudflare R2, Linux/WinSCP |
 
-  ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheBao2903&theme=tokyonight)
+---
 
-  ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheBao2903&theme=tokyonight)
-  ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheBao2903&theme=tokyonight)
+## 📊 Hoạt động & Thống kê
 
-  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheBao2903&theme=tokyonight)
-  ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheBao2903&theme=tokyonight&utcOffset=7)
-
-</div>
-
-<div align="center">
-
-  ### 🌟 "Mỗi dòng code là một bước tiến mới!" 🌟
-
-  ![Visitor Count](https://profile-counter.glitch.me/TheBao2903/count.svg)
-
-  **Cảm ơn bạn đã ghé thăm profile của mình!** 💙
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheBao2903&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBao2903&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+</p>
